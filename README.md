@@ -1,0 +1,2 @@
+# mtgCounter
+simple PhoneGap Application
