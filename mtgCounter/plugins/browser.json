@@ -1,0 +1,73 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "online.dylancunningham.mtgCounter"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "online.dylancunningham.mtgCounter"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "online.dylancunningham.mtgCounter"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "online.dylancunningham.mtgCounter"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "online.dylancunningham.mtgCounter"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "online.dylancunningham.mtgCounter"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "online.dylancunningham.mtgCounter"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "online.dylancunningham.mtgCounter"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "online.dylancunningham.mtgCounter"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "online.dylancunningham.mtgCounter"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "online.dylancunningham.mtgCounter"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "online.dylancunningham.mtgCounter"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "online.dylancunningham.mtgCounter"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "online.dylancunningham.mtgCounter"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "online.dylancunningham.mtgCounter"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "online.dylancunningham.mtgCounter"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "online.dylancunningham.mtgCounter"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "online.dylancunningham.mtgCounter"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "online.dylancunningham.mtgCounter"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "online.dylancunningham.mtgCounter"
+        }
+    }
+}
